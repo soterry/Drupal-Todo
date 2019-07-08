@@ -1,0 +1,3 @@
+[submodule "modules/custom/todo"]
+	path = modules/custom/todo
+	url = git://github.com/soterry/Drupal-Todo-Block-Module
